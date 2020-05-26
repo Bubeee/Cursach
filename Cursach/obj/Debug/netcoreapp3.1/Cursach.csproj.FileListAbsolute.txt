@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\My StuFF\Документы\Универ\С флешки 2 сем 1 курс\Программирование\Cursach\Cursach\bin\Debug\netcoreapp3.1\Cursach.exe
+C:\Users\User\Desktop\My StuFF\Документы\Универ\С флешки 2 сем 1 курс\Программирование\Cursach\Cursach\bin\Debug\netcoreapp3.1\Cursach.deps.json
+C:\Users\User\Desktop\My StuFF\Документы\Универ\С флешки 2 сем 1 курс\Программирование\Cursach\Cursach\bin\Debug\netcoreapp3.1\Cursach.runtimeconfig.json
+C:\Users\User\Desktop\My StuFF\Документы\Универ\С флешки 2 сем 1 курс\Программирование\Cursach\Cursach\bin\Debug\netcoreapp3.1\Cursach.runtimeconfig.dev.json
+C:\Users\User\Desktop\My StuFF\Документы\Универ\С флешки 2 сем 1 курс\Программирование\Cursach\Cursach\bin\Debug\netcoreapp3.1\Cursach.dll
+C:\Users\User\Desktop\My StuFF\Документы\Универ\С флешки 2 сем 1 курс\Программирование\Cursach\Cursach\bin\Debug\netcoreapp3.1\Cursach.pdb
+C:\Users\User\Desktop\My StuFF\Документы\Универ\С флешки 2 сем 1 курс\Программирование\Cursach\Cursach\obj\Debug\netcoreapp3.1\Cursach.csprojAssemblyReference.cache
+C:\Users\User\Desktop\My StuFF\Документы\Универ\С флешки 2 сем 1 курс\Программирование\Cursach\Cursach\obj\Debug\netcoreapp3.1\Cursach.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\My StuFF\Документы\Универ\С флешки 2 сем 1 курс\Программирование\Cursach\Cursach\obj\Debug\netcoreapp3.1\Cursach.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\My StuFF\Документы\Универ\С флешки 2 сем 1 курс\Программирование\Cursach\Cursach\obj\Debug\netcoreapp3.1\Cursach.AssemblyInfo.cs
+C:\Users\User\Desktop\My StuFF\Документы\Универ\С флешки 2 сем 1 курс\Программирование\Cursach\Cursach\obj\Debug\netcoreapp3.1\Cursach.dll
+C:\Users\User\Desktop\My StuFF\Документы\Универ\С флешки 2 сем 1 курс\Программирование\Cursach\Cursach\obj\Debug\netcoreapp3.1\Cursach.pdb
+C:\Users\User\Desktop\My StuFF\Документы\Универ\С флешки 2 сем 1 курс\Программирование\Cursach\Cursach\obj\Debug\netcoreapp3.1\Cursach.genruntimeconfig.cache
